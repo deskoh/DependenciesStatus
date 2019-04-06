@@ -1,2 +1,2 @@
-# DependenciesStatus
-For viewing dependencies up-to-date status.
+# Dependencies Status
+Repository for viewing dependencies up-to-date status.
