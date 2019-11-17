@@ -2,7 +2,7 @@ sudo: required
 language: node_js
 script:
 - mkdir npm
-- for d in */; do cd ${d%?} && pb -c 5 -F ../npm/${d%?}.tgz && cd ..; done;
+- for d in */; do cd ${d%?} && pb -c 2 -F ../npm/${d%?}.tgz && cd ..; done;
 node_js:
 - 10
 deploy:
