@@ -7,4 +7,6 @@ node_js:
   - 10
 notifications:
   email: true
-
+  slack:
+    rooms:
+      secure: ShH2ocqWvFxe72vqWVHvn3SMSl06X5VtVDsP5j8O2vnL+OqdJebJeWY5f71H49BTIOj2Esnk5vGv05zSgETOpXBQTwl6b5TclrnS3SUs8f6/pV58Vgb/VTChv5Arnl3LivxysJJQ//b4+6xuZsXRJf/EDEfTTKX8mA1VitQ+WcLvlANnV0bRk5h5+qQ1cyroh5om16BzybAimtVRJ1nOeO144F5ZqE0Ez08hZh+rNH7dSjqIJEX/VYCrGWI/4lZmZI6sTq8JynhWCEkwtMZ9vhvSSo9ybFiGNw324OGb+n9LcmenGcOdkOwoDGYN2ggwe05bF9iaij6U47jIqKUycCgChynllama7cNCNaTPoHWxWQf/pwZDaUAaRNWZYFnve+rOsXZXy8r05f9f4zk+azI6dBudklYamcJIEfgJto/2KcjgrZkFIZS0f/DPafF6bMRUtKvYeZ6pNNpXLZW2QXxAVrsjA8a9dFgwyHVUPl9cT3ltI+FrwYcA9hAsup/cKhN6MB+L4PxI9ju1E5Q5etdf4TI8dAhjAvqG8osSat2ppPJkWyvNLPmmZ5lWxxlZ0/U1pyertDAVSD+NAaomCX6s1EiILhh+F+ccLLpzFwipGdYpTOy2poxvx1QuS3y+9DG5VcLI8WHHYjKqXKE//GD9K3G+AwGJNLcg7MDtNRE=
