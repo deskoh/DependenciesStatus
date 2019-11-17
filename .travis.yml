@@ -1,0 +1,10 @@
+sudo: required
+language: node_js
+install: npm install
+script: echo OK
+node_js:
+  - node
+  - 10
+notifications:
+  email: true
+
