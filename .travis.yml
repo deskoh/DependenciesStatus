@@ -5,14 +5,13 @@ script:
 - for d in */; do cd ${d%?} && pb -F ../npm/${d%?}.tgz && cd ..; done;
 node_js:
 - node
-- 10
 deploy:
   provider: s3
   access_key_id:
     secure: b4duj6YG4UL1ICoRzrX+loFtetKclw5z0hVGXO2mczndJnwrATizK+eOowpjgTn5IM4QzeG9XV3PyszUAf/UMNWykDa84Yw67q12qWgVWAZU1zjDkzKKKOhEcZ8sqwmQoX7w0DtNk586/AwkP12Z8NtYKNWkavXfHOvElimv19TTMiWy4c/Z6O5Zt1SEPyIz5ryejDAz6HSBRNs74DJk8WzM63izllCYg26vs1JnMpC5F77kDeU6mdC03zynBbYxwa9+zO/Is1CxBrWniGuo0S+uBZkczhwWW0pbhvVrqu1pvIUVU01paWG37YNTtsfMFGjJwd0wX5oGhq5Ubcll8sKH+ljkwXycaSm4yzvkToNreNWwH0LQ4rfJbs2L+N5SZWPxrt/xgwy59Ep2pj2j6ij/qSUUU2vwdEC1O+7pcpKG0TvrMhNDfzPVD2ozgtSteQyBBLgdIo5qyIEImj5C7Rt7i4Dss3XezuLCKhuNyNKbKFMeZajgmdOAy5mRMggEk2rbdIbHUBgv8xmxTKQHLy+gIWcQBt2TrnpANzRpIpjaXevvq9FjT4XA85Xkn4IsmU+h+Qoc5MVs3n2fFMUoFdaJ3mWXJyfZ0vbImPT90567g/dPhk7fhdyvR3IPemvLYbeWMH8/2/HztvAQK49yLKUjuQEaPXOmHfdrV46pudw=
   secret_access_key:
     secure: KFs7KyzIyfcImxDk9HQaLI+Xy6SLIXNrTKOBx3wD4JEZeCBDxA6zQ93bNcIXKXPLXYIUPCrkOs5iwbvGxuDDBWD+Ms7GeeK1OW3ZNxBl1tPmzEuaWm46tMuEJjZ4aBZnntiIuN5zRP5WXPIBgXBfOgtwK+n73gh/tG/bpQpVy5fjs5zU6GYdoPS7dbrKAB2vtB/TYRZdb7s8Ed3fmpDzddZQKqTcdYdPhyGb/WP8W9HKQviA7byKc380ygDsiV8AfsqVu0fzTCCNppgBXi1VHD9c6npZl5lgw4QbwI8Ny0sDa67YFGBRppmRkXv3iII9exLuRNU5sLf3I7rpRJluknxn+TWsBz2fQ2LFRdseLZSl8+yNKMi05YwvmsD3DosvG/zzue0d1nYpzBpzdkomD+Hb4Lj9DgHAidakOCJFYHxBxKj8vs1KmDJRR9xtJn0hbqkZUjz0VuQ33807keaqVSci2rBSunAHExFw0wBEH3jfJ+oYSnRyQXC/gEynnscNvA+IILOSv8kDT+h7Z3rhF0ano1xkwQ7ZfNo8o6JutF1/Csd6oT17xAe9RtW4agViVgiC42nFu//f93poOepdkyLD7N/cG0+GLpUtiv8xRuxK86kXMfvZ6hhppmqMOS9507TdOIvkEkKHcGfN5StMTvolr4EbEqid8vqwvgxCZAc=
-  bucket: S3 Bucket
+  bucket: deskoh-npm
   skip_cleanup: true
   local_dir: npm
 before_script:
