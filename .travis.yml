@@ -1,4 +1,7 @@
 sudo: required
+branches:
+  only:
+  - master
 language: node_js
 script:
 - mkdir npm
