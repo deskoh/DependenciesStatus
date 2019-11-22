@@ -101,7 +101,7 @@
     "@types/passport-oauth2": "1.4.8",
     "@types/passport-strategy": "0.2.35",
     "@types/request-promise": "4.1.45",
-    "@types/serve-favicon": "2.2.31",
+    "@types/serve-favicon": "2.5.0",
     "@types/sinon": "7.5.1",
     "@typescript-eslint/eslint-plugin": "2.8.0",
     "@typescript-eslint/parser": "2.8.0",
