@@ -58,7 +58,7 @@
     "@feathersjs/authentication": "4.4.0",
     "@feathersjs/authentication-local": "4.4.0",
     "@feathersjs/configuration": "4.4.0",
-    "@feathersjs/errors": "4.4.1",
+    "@feathersjs/errors": "4.4.0",
     "@feathersjs/express": "4.4.0",
     "@feathersjs/feathers": "4.4.0",
     "@feathersjs/socketio": "4.4.0",
@@ -88,7 +88,7 @@
     "winston-daily-rotate-file": "4.3.0"
   },
   "devDependencies": {
-    "@feathersjs/client": "4.4.0",
+    "@feathersjs/client": "4.4.1",
     "@types/chai": "4.2.4",
     "@types/compression": "1.0.1",
     "@types/cors": "2.8.6",
