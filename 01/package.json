@@ -60,7 +60,7 @@
     "@feathersjs/configuration": "4.4.0",
     "@feathersjs/errors": "4.4.0",
     "@feathersjs/express": "4.4.1",
-    "@feathersjs/feathers": "4.4.0",
+    "@feathersjs/feathers": "4.4.1",
     "@feathersjs/socketio": "4.4.0",
     "@feathersjs/transport-commons": "4.4.0",
     "ajv": "6.10.2",
