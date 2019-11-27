@@ -59,7 +59,7 @@
     "@feathersjs/authentication-local": "4.3.11",
     "@feathersjs/configuration": "4.3.11",
     "@feathersjs/errors": "4.4.0",
-    "@feathersjs/express": "4.3.11",
+    "@feathersjs/express": "4.4.0",
     "@feathersjs/feathers": "4.4.0",
     "@feathersjs/socketio": "4.3.11",
     "@feathersjs/transport-commons": "4.3.11",
