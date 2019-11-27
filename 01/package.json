@@ -88,7 +88,7 @@
     "winston-daily-rotate-file": "4.3.0"
   },
   "devDependencies": {
-    "@feathersjs/client": "4.3.11",
+    "@feathersjs/client": "4.4.0",
     "@types/chai": "4.2.4",
     "@types/compression": "1.0.1",
     "@types/cors": "2.8.6",
