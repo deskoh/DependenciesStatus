@@ -58,7 +58,7 @@
     "@feathersjs/authentication": "4.4.0",
     "@feathersjs/authentication-local": "4.4.0",
     "@feathersjs/configuration": "4.4.0",
-    "@feathersjs/errors": "4.4.0",
+    "@feathersjs/errors": "4.4.1",
     "@feathersjs/express": "4.4.0",
     "@feathersjs/feathers": "4.4.0",
     "@feathersjs/socketio": "4.4.0",
