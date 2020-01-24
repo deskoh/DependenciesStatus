@@ -61,7 +61,7 @@
     "@feathersjs/errors": "4.5.1",
     "@feathersjs/express": "4.5.1",
     "@feathersjs/feathers": "4.5.1",
-    "@feathersjs/socketio": "4.4.3",
+    "@feathersjs/socketio": "4.5.1",
     "@feathersjs/transport-commons": "4.5.1",
     "ajv": "6.10.2",
     "compression": "1.7.4",
