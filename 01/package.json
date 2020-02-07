@@ -90,7 +90,7 @@
   "devDependencies": {
     "@feathersjs/client": "4.5.1",
     "@types/chai": "4.2.8",
-    "@types/compression": "1.0.1",
+    "@types/compression": "1.7.0",
     "@types/cors": "2.8.6",
     "@types/helmet": "0.0.45",
     "@types/lodash.merge": "4.6.6",
