@@ -72,7 +72,7 @@
     "feathers-mongoose": "8.3.0",
     "feathers-swagger": "1.1.0",
     "feathers-sync": "1.2.0",
-    "helmet": "3.21.2",
+    "helmet": "3.21.3",
     "lodash": "4.17.15",
     "lodash.merge": "4.6.2",
     "moment": "2.24.0",
