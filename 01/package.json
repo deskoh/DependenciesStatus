@@ -115,7 +115,7 @@
     "husky": "4.2.3",
     "jsonfile": "6.0.0",
     "lint-staged": "10.0.8",
-    "mocha": "7.0.1",
+    "mocha": "7.1.0",
     "nodemon": "2.0.2",
     "nyc": "15.0.0",
     "request-promise": "4.2.5",
