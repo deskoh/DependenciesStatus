@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@casl/ability": "3.4.0",
+    "@casl/ability": "4.0.0",
     "@casl/react": "1.0.4",
     "@date-io/core": "2.4.0",
     "@date-io/date-fns": "2.4.0",
