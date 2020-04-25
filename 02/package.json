@@ -55,7 +55,7 @@
     "socket.io-client": "2.3.0",
     "typescript": "3.7.2",
     "xlsx": "0.15.5",
-    "yup": "0.28.3"
+    "yup": "0.28.4"
   },
   "scripts": {
     "start": "react-scripts start",
