@@ -1,0 +1,28 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - lodash:
+        patched: '2020-04-30T23:01:38.259Z'
+    - '@feathersjs/express > lodash':
+        patched: '2020-04-30T23:01:38.259Z'
+    - feathers-authentication-hooks > lodash:
+        patched: '2020-04-30T23:01:38.259Z'
+    - feathers-hooks-common > lodash:
+        patched: '2020-04-30T23:01:38.259Z'
+    - feathers-swagger > lodash:
+        patched: '2020-04-30T23:01:38.259Z'
+    - feathers-sync > lodash:
+        patched: '2020-04-30T23:01:38.259Z'
+    - kafka-node > lodash:
+        patched: '2020-04-30T23:01:38.259Z'
+    - '@feathersjs/authentication-local > @feathersjs/authentication > lodash':
+        patched: '2020-04-30T23:01:38.259Z'
+    - kafka-node > async > lodash:
+        patched: '2020-04-30T23:01:38.259Z'
+    - winston > async > lodash:
+        patched: '2020-04-30T23:01:38.259Z'
+    - '@feathersjs/authentication-local > @feathersjs/authentication > @feathersjs/transport-commons > lodash':
+        patched: '2020-04-30T23:01:38.259Z'
