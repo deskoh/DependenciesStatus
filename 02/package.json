@@ -63,7 +63,8 @@
     "socket.io-client": "2.3.0",
     "typescript": "3.8.3",
     "xlsx": "0.15.6",
-    "yup": "0.28.4"
+    "yup": "0.28.4",
+    "snyk": "^1.317.0"
   },
   "scripts": {
     "start": "cross-env-shell REACT_APP_BUILD_SHA=$GIT_COMMIT react-scripts start",
@@ -77,7 +78,9 @@
     "eslint:jenkins": "eslint --ext js,jsx,ts,tsx . -f checkstyle -o ./eslint/eslint.xml",
     "eslint:swqat": "eslint --ignore-pattern src/__*__/** --ext js,jsx,ts,tsx . -f html -o ./eslint/eslint-swqat.html",
     "clean": "shx rm -rf build && shx rm -f package-lock.json && npm cache clean -f && shx rm -rf node_modules",
-    "rebuild": "npm run clean && npm i"
+    "rebuild": "npm run clean && npm i",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -135,5 +138,6 @@
     "lint-staged": "10.1.7",
     "react-select-event": "4.1.4",
     "shx": "0.3.2"
-  }
+  },
+  "snyk": true
 }
