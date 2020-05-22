@@ -97,7 +97,7 @@
     "@types/chai": "4.2.11",
     "@types/compression": "1.7.0",
     "@types/cors": "2.8.6",
-    "@types/helmet": "0.0.45",
+    "@types/helmet": "0.0.47",
     "@types/lodash.merge": "4.6.6",
     "@types/mocha": "7.0.2",
     "@types/mongoose": "5.7.13",
