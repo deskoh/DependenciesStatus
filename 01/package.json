@@ -91,7 +91,7 @@
     "winston-daily-rotate-file": "4.4.2"
   },
   "devDependencies": {
-    "@feathersjs/authentication-client": "4.5.3",
+    "@feathersjs/authentication-client": "4.5.4",
     "@feathersjs/rest-client": "4.5.4",
     "@feathersjs/socketio-client": "4.5.3",
     "@types/chai": "4.2.11",
