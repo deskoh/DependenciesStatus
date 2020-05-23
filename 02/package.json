@@ -29,7 +29,7 @@
     "escape-html": "1.0.3",
     "esri-loader": "2.14.0",
     "esri-loader-react": "2.0.3",
-    "feathers-reactive": "0.8.1",
+    "feathers-reactive": "0.8.2",
     "formik": "2.1.4",
     "history": "4.10.1",
     "jss": "10.1.1",
