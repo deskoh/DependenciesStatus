@@ -116,7 +116,7 @@
     "eslint-plugin-sonarjs": "^0.5.0",
     "husky": "^4.2.5",
     "jsonfile": "^6.0.1",
-    "lint-staged": "^10.2.6",
+    "lint-staged": "^10.2.11",
     "mocha": "^8.0.0",
     "nodemon": "^2.0.4",
     "nyc": "^15.0.1",
