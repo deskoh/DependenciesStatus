@@ -61,7 +61,7 @@
     "react-virtuoso": "^0.17.3",
     "redux": "^4.0.5",
     "socket.io-client": "^2.3.0",
-    "typescript": "^3.9.3",
+    "typescript": "^3.9.5",
     "xlsx": "^0.16.0",
     "yup": "^0.29.0"
   },
