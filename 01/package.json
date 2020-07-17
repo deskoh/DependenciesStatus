@@ -92,7 +92,7 @@
   },
   "devDependencies": {
     "@feathersjs/authentication-client": "^4.5.5",
-    "@feathersjs/rest-client": "^4.5.5",
+    "@feathersjs/rest-client": "^4.5.6",
     "@feathersjs/socketio-client": "^4.5.5",
     "@types/chai": "^4.2.11",
     "@types/compression": "^1.7.0",
