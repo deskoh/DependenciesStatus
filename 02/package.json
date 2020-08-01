@@ -63,7 +63,7 @@
     "socket.io-client": "^2.3.0",
     "typescript": "^3.9.7",
     "xlsx": "^0.16.5",
-    "yup": "^0.29.1"
+    "yup": "^0.29.2"
   },
   "scripts": {
     "start": "cross-env-shell REACT_APP_BUILD_SHA=$GIT_COMMIT react-scripts start",
