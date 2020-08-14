@@ -105,7 +105,7 @@
   ],
   "devDependencies": {
     "@testing-library/dom": "^7.22.2",
-    "@testing-library/jest-dom": "^5.11.2",
+    "@testing-library/jest-dom": "^5.11.3",
     "@testing-library/react": "^10.4.8",
     "@types/arcgis-js-api": "^4.16.0",
     "@types/arcgis-to-geojson-utils": "^1.0.2",
