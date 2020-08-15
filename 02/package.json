@@ -33,7 +33,7 @@
     "formik": "^2.1.5",
     "history": "^5.0.0",
     "jss": "^10.4.0",
-    "jss-plugin-extend": "^10.3.0",
+    "jss-plugin-extend": "^10.4.0",
     "jwt-decode": "^2.2.0",
     "lodash.clonedeep": "^4.5.0",
     "lodash.get": "^4.4.2",
