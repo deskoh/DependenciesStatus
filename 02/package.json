@@ -133,7 +133,7 @@
     "husky": "^4.3.0",
     "jest-junit": "^11.1.0",
     "lint-staged": "^10.4.0",
-    "react-select-event": "^5.0.0",
+    "react-select-event": "^5.1.0",
     "shx": "^0.3.2"
   }
 }
