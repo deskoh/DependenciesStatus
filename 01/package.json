@@ -94,7 +94,7 @@
     "@feathersjs/authentication-client": "^4.5.8",
     "@feathersjs/rest-client": "^4.5.9",
     "@feathersjs/socketio-client": "^4.5.8",
-    "@types/chai": "^4.2.12",
+    "@types/chai": "^4.2.13",
     "@types/compression": "^1.7.0",
     "@types/cors": "^2.8.7",
     "@types/helmet": "^0.0.48",
