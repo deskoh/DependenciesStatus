@@ -96,7 +96,7 @@
     "@feathersjs/socketio-client": "^4.5.9",
     "@types/chai": "^4.2.13",
     "@types/compression": "^1.7.0",
-    "@types/cors": "^2.8.7",
+    "@types/cors": "^2.8.8",
     "@types/helmet": "^0.0.48",
     "@types/lodash.merge": "^4.6.6",
     "@types/mocha": "^8.0.3",
