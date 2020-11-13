@@ -30,7 +30,7 @@
     "esri-loader": "^2.16.0",
     "esri-loader-react": "^2.0.3",
     "feathers-reactive": "^0.8.2",
-    "formik": "^2.2.3",
+    "formik": "^2.2.5",
     "history": "^5.0.0",
     "jss": "^10.4.0",
     "jss-plugin-extend": "^10.4.0",
