@@ -104,7 +104,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "@testing-library/dom": "^7.26.6",
+    "@testing-library/dom": "^7.28.0",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.1.2",
     "@types/arcgis-js-api": "^4.17.0",
