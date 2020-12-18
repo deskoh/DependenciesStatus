@@ -65,7 +65,7 @@
     "@feathersjs/express": "^4.5.11",
     "@feathersjs/feathers": "^4.5.11",
     "@feathersjs/socketio": "^4.5.11",
-    "ajv": "^6.12.6",
+    "ajv": "^7.0.1",
     "axios": "^0.21.0",
     "compression": "^1.7.4",
     "cors": "^2.8.5",
