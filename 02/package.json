@@ -40,7 +40,7 @@
     "mitt": "^2.1.0",
     "moment": "^2.29.1",
     "node-sass": "^5.0.0",
-    "notistack": "^1.0.2",
+    "notistack": "^1.0.3",
     "object-to-formdata": "^4.1.0",
     "primeflex": "^2.0.0",
     "prop-types": "^15.7.2",
