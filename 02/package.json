@@ -27,7 +27,7 @@
     "debug": "^4.3.1",
     "env-cmd": "^10.1.0",
     "escape-html": "^1.0.3",
-    "esri-loader": "^2.16.0",
+    "esri-loader": "^3.0.0",
     "esri-loader-react": "^2.0.3",
     "feathers-reactive": "^0.8.2",
     "formik": "^2.2.6",
