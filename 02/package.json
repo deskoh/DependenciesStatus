@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "private": true,
   "dependencies": {
-    "@casl/ability": "^5.1.2",
+    "@casl/ability": "^5.2.0",
     "@casl/react": "^2.2.2",
     "@cycjimmy/jsmpeg-player": "^5.0.1",
     "@date-io/date-fns": "^2.10.6",
