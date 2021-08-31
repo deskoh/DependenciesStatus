@@ -9,8 +9,8 @@
     "config": "config/"
   },
   "engines": {
-    "node": "14.17.4",
-    "npm": ">= 7.20.3"
+    "node": "14.17.6",
+    "npm": ">= 7.21.1"
   },
   "nyc": {
     "include": [
@@ -81,10 +81,10 @@
     "lodash": "^4.17.21",
     "lodash.merge": "^4.6.2",
     "moment": "^2.29.1",
-    "mongoose": "^5.13.5",
+    "mongoose": "^6.0.3",
     "ms": "^2.1.3",
     "multer": "^2.0.0-rc.3",
-    "nanoid": "^3.1.23",
+    "nanoid": "^3.1.25",
     "node-schedule": "^2.0.0",
     "saslprep": "^1.0.3",
     "winston": "^3.3.3",
@@ -106,27 +106,27 @@
     "@types/nanoid": "^2.1.0",
     "@types/node-schedule": "^1.3.2",
     "@types/sinon": "^10.0.2",
-    "@typescript-eslint/eslint-plugin": "^4.28.5",
-    "@typescript-eslint/parser": "^4.28.5",
+    "@typescript-eslint/eslint-plugin": "^4.30.0",
+    "@typescript-eslint/parser": "^4.30.0",
     "chai": "^4.3.4",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-import-resolver-typescript": "^2.4.0",
-    "eslint-plugin-import": "^2.23.4",
-    "eslint-plugin-sonarjs": "^0.9.1",
-    "husky": "^7.0.1",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-sonarjs": "^0.10.0",
+    "husky": "^7.0.2",
     "jsonfile": "^6.1.0",
-    "lint-staged": "^11.1.1",
-    "mocha": "^9.0.3",
+    "lint-staged": "^11.1.2",
+    "mocha": "^9.1.1",
     "nodemon": "^2.0.12",
     "nyc": "^15.1.0",
     "shx": "^0.3.3",
     "sinon": "^11.1.2",
-    "socket.io-client": "^4.1.3",
+    "socket.io-client": "^4.2.0",
     "source-map-support": "^0.5.19",
     "ts-mocha": "^8.0.0",
-    "ts-node": "^10.1.0",
+    "ts-node": "^10.2.1",
     "ts-node-dev": "^1.1.8",
-    "typescript": "^4.3.5"
+    "typescript": "^4.4.2"
   }
 }
