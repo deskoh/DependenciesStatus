@@ -9,7 +9,7 @@
     "config": "config/"
   },
   "engines": {
-    "node": "16.13.2",
+    "node": "16.14.0",
     "npm": ">= 8.1.4"
   },
   "nyc": {
@@ -66,7 +66,7 @@
     "@feathersjs/feathers": "^4.5.11",
     "@feathersjs/socketio": "^4.5.11",
     "ajv": "^8.8.2",
-    "axios": "^0.25.0",
+    "axios": "^0.26.0",
     "compression": "^1.7.4",
     "cors": "^2.8.5",
     "cross-env": "^7.0.3",
@@ -113,7 +113,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-import-resolver-typescript": "^2.5.0",
     "eslint-plugin-import": "^2.25.3",
-    "eslint-plugin-sonarjs": "^0.11.0",
+    "eslint-plugin-sonarjs": "^0.12.0",
     "husky": "^7.0.4",
     "jsonfile": "^6.1.0",
     "lint-staged": "^12.1.2",
