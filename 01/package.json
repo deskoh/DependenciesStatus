@@ -9,7 +9,7 @@
     "config": "config/"
   },
   "engines": {
-    "node": "16.15.1",
+    "node": "16.16.0",
     "npm": ">= 8.1.4"
   },
   "nyc": {
@@ -113,7 +113,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-import-resolver-typescript": "^3.0.0",
     "eslint-plugin-import": "^2.25.3",
-    "eslint-plugin-sonarjs": "^0.13.0",
+    "eslint-plugin-sonarjs": "^0.14.0",
     "husky": "^8.0.0",
     "jsonfile": "^6.1.0",
     "lint-staged": "^13.0.0",
