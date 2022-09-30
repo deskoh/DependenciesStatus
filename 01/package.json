@@ -9,7 +9,7 @@
     "config": "config/"
   },
   "engines": {
-    "node": "16.17.0",
+    "node": "16.17.1",
     "npm": ">= 8.1.4"
   },
   "nyc": {
@@ -99,7 +99,7 @@
     "@types/cors": "^2.8.12",
     "@types/helmet": "^0.0.48",
     "@types/lodash.merge": "^4.6.6",
-    "@types/mocha": "^9.0.0",
+    "@types/mocha": "^10.0.0",
     "@types/mongoose": "^5.11.96",
     "@types/ms": "^0.7.31",
     "@types/multer": "^1.4.7",
