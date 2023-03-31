@@ -9,7 +9,7 @@
     "config": "config/"
   },
   "engines": {
-    "node": "18.14.2",
+    "node": "18.15.0",
     "npm": ">= 8.1.4"
   },
   "nyc": {
@@ -73,7 +73,7 @@
     "feathers-authentication-hooks": "^1.0.2",
     "feathers-hooks-common": "^7.0.0",
     "feathers-mongoose": "^8.5.1",
-    "feathers-swagger": "^2.0.0",
+    "feathers-swagger": "^3.0.0",
     "feathers-sync": "^3.0.0",
     "get-stream": "^6.0.1",
     "helmet": "^6.0.0",
@@ -113,7 +113,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-import-resolver-typescript": "^3.0.0",
     "eslint-plugin-import": "^2.25.3",
-    "eslint-plugin-sonarjs": "^0.18.0",
+    "eslint-plugin-sonarjs": "^0.19.0",
     "husky": "^8.0.0",
     "jsonfile": "^6.1.0",
     "lint-staged": "^13.0.0",
@@ -127,6 +127,6 @@
     "ts-mocha": "^10.0.0",
     "ts-node": "^10.4.0",
     "ts-node-dev": "^2.0.0",
-    "typescript": "^4.5.2"
+    "typescript": "^5.0.0"
   }
 }
