@@ -9,7 +9,7 @@
     "config": "config/"
   },
   "engines": {
-    "node": "18.16.0",
+    "node": "18.16.1",
     "npm": ">= 8.1.4"
   },
   "nyc": {
@@ -71,7 +71,7 @@
     "cors": "^2.8.5",
     "cross-env": "^7.0.3",
     "feathers-authentication-hooks": "^1.0.2",
-    "feathers-hooks-common": "^7.0.0",
+    "feathers-hooks-common": "^8.0.0",
     "feathers-mongoose": "^8.5.1",
     "feathers-swagger": "^3.0.0",
     "feathers-sync": "^3.0.0",
