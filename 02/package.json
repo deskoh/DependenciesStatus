@@ -34,7 +34,7 @@
     "history": "^5.1.0",
     "jss": "^10.8.2",
     "jss-plugin-extend": "^10.8.2",
-    "jwt-decode": "^3.1.2",
+    "jwt-decode": "^4.0.0",
     "lodash.clonedeep": "^4.5.0",
     "lodash.get": "^4.4.2",
     "mitt": "^3.0.0",
@@ -132,7 +132,7 @@
     "eslint-plugin-sonarjs": "^0.21.0",
     "husky": "^8.0.0",
     "jest-junit": "^16.0.0",
-    "lint-staged": "^14.0.0",
+    "lint-staged": "^15.0.0",
     "react-select-event": "^5.3.0",
     "shx": "^0.3.3"
   }
