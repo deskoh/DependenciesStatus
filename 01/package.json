@@ -9,7 +9,7 @@
     "config": "config/"
   },
   "engines": {
-    "node": "20.11.0",
+    "node": "20.11.1",
     "npm": ">= 8.1.4"
   },
   "nyc": {
@@ -88,7 +88,7 @@
     "node-schedule": "^2.1.0",
     "saslprep": "^1.0.3",
     "winston": "^3.3.3",
-    "winston-daily-rotate-file": "^4.5.5"
+    "winston-daily-rotate-file": "^5.0.0"
   },
   "devDependencies": {
     "@feathersjs/authentication-client": "^5.0.0",
@@ -106,14 +106,14 @@
     "@types/nanoid": "^2.1.0",
     "@types/node-schedule": "^2.0.0",
     "@types/sinon": "^17.0.0",
-    "@typescript-eslint/eslint-plugin": "^6.0.0",
-    "@typescript-eslint/parser": "^6.0.0",
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
+    "@typescript-eslint/parser": "^7.0.0",
     "chai": "^5.0.0",
     "eslint": "^8.3.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-import-resolver-typescript": "^3.0.0",
     "eslint-plugin-import": "^2.25.3",
-    "eslint-plugin-sonarjs": "^0.23.0",
+    "eslint-plugin-sonarjs": "^0.24.0",
     "husky": "^9.0.0",
     "jsonfile": "^6.1.0",
     "lint-staged": "^15.0.0",
