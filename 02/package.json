@@ -129,7 +129,7 @@
     "eslint-config-airbnb": "^19.0.1",
     "eslint-import-resolver-typescript": "^3.0.0",
     "eslint-plugin-jest": "^28.0.0",
-    "eslint-plugin-sonarjs": "^1.0.0",
+    "eslint-plugin-sonarjs": "^2.0.0",
     "husky": "^9.0.0",
     "jest-junit": "^16.0.0",
     "lint-staged": "^15.0.0",
