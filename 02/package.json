@@ -23,7 +23,7 @@
     "ag-grid-community": "^32.0.1",
     "ag-grid-enterprise": "^32.0.0",
     "ag-grid-react": "^32.0.0",
-    "date-fns": "^3.0.0",
+    "date-fns": "^4.0.0",
     "debug": "^4.3.3",
     "env-cmd": "^10.1.0",
     "escape-html": "^1.0.3",
