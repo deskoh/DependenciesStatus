@@ -9,7 +9,7 @@
     "config": "config/"
   },
   "engines": {
-    "node": "20.17.0",
+    "node": "22.11.0",
     "npm": ">= 8.1.4"
   },
   "nyc": {
